@@ -8,6 +8,7 @@ module.exports = {
 				endOfLine: "auto",
 			},
 		],
+		"react/react-in-jsx-scope": "off",
 		"react/jsx-uses-vars": "error",
 		"react/jsx-uses-react": "error",
 		"eslint-comments/disable-enable-pair": "off",
